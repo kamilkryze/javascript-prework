@@ -49,11 +49,11 @@ function buttonClicked(argButtonName) {
 
 
   buttonRock.addEventListener('click', function () {
-    buttonClicked('Rock button')
+    buttonClicked('kamień')
   });
   buttonPaper.addEventListener('click', function () {
-    buttonClicked('Paper button')
+    buttonClicked('papier')
   });
   buttonScissors.addEventListener('click', function () {
-    buttonClicked('Scissors button')
+    buttonClicked('nożyce')
   });
